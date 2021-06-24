@@ -27,9 +27,7 @@ now the model has generated a bot of 4.6389 perplexity while it was trained for 
 
 ![WhatsApp Image 2021-06-24 at 7 25 21 PM](https://user-images.githubusercontent.com/71517788/123322182-98f21000-d551-11eb-8db0-cf0694ac1c26.jpeg)
 
-# Future Enhancement
+![Chandler](https://user-images.githubusercontent.com/71517788/123333180-09535e00-d55f-11eb-9b43-1e7498600323.PNG)
 
-I have hosted the model on Hugging Face and will be working on connecting it to Discord, this way it will be 
-deployed and available to use to all the users via the platform of Discord. 
 
 
