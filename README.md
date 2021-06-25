@@ -7,6 +7,8 @@ Chandler Bing is my favourite character from the famous sitcom F.R.I.E.N.D.S
 and thus this chatbot is a fun little side project to enjoy and leverage the 
 power of machine learning for the purpose of entertainment. 
 
+You could talk with the bot [here](https://huggingface.co/Saviour/ChandlerBot).
+
 # Description 
 
 Our goal is to make a bot which would respond to situations/texts in a way that Chandler would. For 
