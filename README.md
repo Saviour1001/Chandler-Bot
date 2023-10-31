@@ -31,3 +31,9 @@ now the model has generated a bot of 4.6389 perplexity while it was trained for 
 ![WhatsApp Image 2021-06-24 at 7 25 21 PM](https://user-images.githubusercontent.com/71517788/123322182-98f21000-d551-11eb-8db0-cf0694ac1c26.jpeg)
 
 ![Chandler](https://user-images.githubusercontent.com/71517788/123333180-09535e00-d55f-11eb-9b43-1e7498600323.PNG)
+
+
+## One of the last messages from Chandler
+
+![image](https://github.com/Saviour1001/Chandler-Bot/assets/71517788/a6540eb0-757a-457f-8335-7632c29cf5ff)
+
